@@ -1,0 +1,50 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 1.0), rgba(0, 0, 0, 0.5)), url('bg.jpg');
+    background-size: cover;
+    margin: 0;
+
+}
+img{
+
+height: 200px;
+width: 200px;
+margin-top: 2%;
+
+
+}
+
+h1{
+    color: white;
+    
+}
+
+h2{
+    color: aqua;
+}
+.nome{
+    background-color: blueviolet;
+    height: 60px;
+    font-size: 50px;
+    font-family: serif;
+    
+    
+}
+h2 {
+ 
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: red;
+ 
+    } 
+    .dolado{
+        display: flex;
+        padding: 10px;
+    }
+    .block{
+        display: block;
+        padding: 20px;
+    }
+.home{
+    
+}
+

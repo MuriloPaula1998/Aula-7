@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+h1{
+    color: brown;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: yellow;
+}
+p{
+    color: brown;
+}
+li{
+    color: red;
+}

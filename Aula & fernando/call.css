@@ -1,0 +1,15 @@
+h1{
+    font-size: 40px;
+    color: black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
+body{
+background-color: black;
+}
+li{
+    color: white;
+}
+p{
+    color: red;
+}
